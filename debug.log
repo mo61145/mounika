@@ -1,0 +1,4 @@
+[0411/174452.976:ERROR:file_io.cc(89)] ReadExactly: expected 10472, observed 0
+[0411/174453.007:ERROR:crash_report_database_win.cc(445)] failed to read records
+[0411/174510.156:ERROR:file_io.cc(89)] ReadExactly: expected 10472, observed 0
+[0411/174510.156:ERROR:crash_report_database_win.cc(445)] failed to read records
